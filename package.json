@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "analiza-sync": "^1.0.1"
+  },
+  "name": "test_week9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahacovelchanan/test_week9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yahacovelchanan/test_week9/issues"
+  },
+  "homepage": "https://github.com/yahacovelchanan/test_week9#readme"
+}
